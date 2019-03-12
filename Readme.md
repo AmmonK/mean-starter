@@ -1,6 +1,6 @@
 ### MEAN
 
-> **M**ongo **E**xpress **A**ngular **N**ode ammon is awesome
+> **M**ongo **E**xpress **A**ngular **N**ode
 
 ### How to get a copy of the code
 
