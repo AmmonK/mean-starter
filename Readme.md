@@ -1,7 +1,7 @@
 ### MEAN
 
-> **M**ongo **E**xpress **A**ngular **N**ode
-> this is neat
+**M**ongo **E**xpress **A**ngular **N**odecool beans
+this is neat
 
 ### How to get a copy of the code
 
