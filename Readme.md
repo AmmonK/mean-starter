@@ -9,12 +9,3 @@ this is neat
 cd desktop
 git clone https://github.com/ammonk/mean-starter.git
 ```
-
-### How to run
-
-```
-npm install
-npm run dev
-```
-
-### How To Make From Scratch
